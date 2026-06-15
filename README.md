@@ -1,25 +1,55 @@
-# Hi there 👋 I'm Huoyuan
+<h1 align="center">Hi there 👋 I'm Huoyuan</h1>
 
-🎓 Algorithm Engineer  
+<p align="center">
+  <b>🎓 Algorithm Engineer</b> &nbsp;·&nbsp; 🤖 AI · Autonomous Driving · Embodied Intelligence
+</p>
 
-🤖 AI | Autonomous Driving | Embodied Intelligence
-
-📊 Industrial Autonomous Driving | SLAM | VLA 
-
-### 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-22314E??logo=c++&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros)
-
-
-### 📊 GitHub Stats
-![Profile views](https://komarev.com/ghpvc/?username=hyuantan)
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuantan&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuantan) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hyuantan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hyuantan)
+### 👨‍💻 About Me
+
+- 🚗 Algorithm Engineer · **Industrial Autonomous Driving** (AMR · IGV) · **6+ years** of experience in perception, SLAM, planning and control.
+- 🦾 Exploring **Embodied AI & VLA** for the next generation of autonomous systems.
+- 🎓 **M.Sc. in Computer Science and Engineering**, University of Gothenburg & Chalmers University of Technology (joint Dept. of Computer Science and Engineering, 2026) — thesis on *Assessment & Failure Recovery in Remote Vision-Language-Action Deployment*.
+
+---
+
+### 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### 🔬 Focus Areas
+
+- 🚗 **Industrial Autonomous Driving** — Autonomous Mobile Robots (AMR) & autonomous trucks / Intelligent Guided Vehicles (IGV) for ports and logistics; perception, planning & control for real-world deployment
+- 🗺️ **SLAM** — localization and mapping
+- 🦾 **VLA (Vision-Language-Action)** — models for embodied intelligence
+
+### 🌱 Beyond Code
+
+🏸 Badminton &nbsp;·&nbsp; 🤖 Hobby robotics / DIY
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hyuantan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuantan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hyuantan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
