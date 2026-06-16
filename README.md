@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
 ### 🔬 Focus Areas
@@ -57,4 +58,8 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyuantan&theme=tokyonight" alt="Profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HyuanTan/HyuanTan/main/profile-3d-contrib/profile-gitblock.svg" alt="GitHub 3D Contributions" />
 </p>
