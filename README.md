@@ -14,7 +14,7 @@
 
 - 🚗 Algorithm Engineer · **Industrial Autonomous Driving** (AMR · IGV) · **5+ years** of experience in perception, SLAM, planning and control.
 - 🦾 Exploring **Embodied AI & VLA** for the next generation of autonomous systems.
-- 🎓 **M.Sc. in Computer Science and Engineering**, University of Gothenburg & Chalmers University of Technology (joint Dept. of Computer Science and Engineering, 2026) — thesis on *Assessment & Failure Recovery in Remote Vision-Language-Action Deployment*.
+- 🎓 **M.Sc. in Computer Science and Engineering**, University of Gothenburg (2026) — thesis on *Assessment & Failure Recovery in Remote Vision-Language-Action Deployment*.
 
 ---
 
