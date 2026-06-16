@@ -43,22 +43,34 @@
 
 ### 📌 Pinned
 
-<p align="center">
-  <a href="https://github.com/HyuanTan/lerobot_far">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=HyuanTan&repo=lerobot_far&theme=tokyonight&hide_border=true" alt="lerobot_far" />
-  </a>
-  <a href="https://github.com/HyuanTan/DIT669-gulliview_noetic">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=HyuanTan&repo=DIT669-gulliview_noetic&theme=tokyonight&hide_border=true" alt="DIT669-gulliview_noetic" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/HyuanTan/finetune_gpt2_for_instruction_follow">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=HyuanTan&repo=finetune_gpt2_for_instruction_follow&theme=tokyonight&hide_border=true" alt="finetune_gpt2_for_instruction_follow" />
-  </a>
-  <a href="https://github.com/HyuanTan/HAR">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=HyuanTan&repo=HAR&theme=tokyonight&hide_border=true" alt="HAR" />
-  </a>
-</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="6">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/HyuanTan/lerobot_far">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HyuanTan&repo=lerobot_far&theme=tokyonight&hide_border=true" alt="lerobot_far" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/HyuanTan/DIT669-gulliview_noetic">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HyuanTan&repo=DIT669-gulliview_noetic&theme=tokyonight&hide_border=true" alt="DIT669-gulliview_noetic" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/HyuanTan/finetune_gpt2_for_instruction_follow">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HyuanTan&repo=finetune_gpt2_for_instruction_follow&theme=tokyonight&hide_border=true" alt="finetune_gpt2_for_instruction_follow" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/HyuanTan/HAR">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HyuanTan&repo=HAR&theme=tokyonight&hide_border=true" alt="HAR" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 📊 GitHub Stats
 
