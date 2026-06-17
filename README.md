@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Huoyuan</h1>
 
 <p align="center">
-  <b>🎓 Algorithm Engineer</b> &nbsp;·&nbsp; 🤖 AI · Autonomous Driving · Embodied Intelligence
+  <b>🎓 Algorithm Engineer</b> &nbsp;·&nbsp; 🤖 Autonomous Mobile Robotics · Embodied Intelligence
 </p>
 
 <p align="center">
