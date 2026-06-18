@@ -13,7 +13,8 @@
 ### 👨‍💻 About Me
 
 - 🚗 Robotics Algorithm Engineer · **Industrial Autonomous Driving** (AMR · IGV) · **5+ years** of experience in perception, SLAM, planning and control.
-- 🦾 Exploring **Embodied AI & VLA** for the next generation of autonomous systems.
+- 🧠 Interested in **hierarchical robot intelligence**: **VLMs/LLMs** for high-level task reasoning and intention understanding, **VLA models** for action generation and manipulation skills, and **reinforcement learning** for adaptive execution and failure recovery in **human–robot collaboration**.
+
 - 🎓 **M.Sc. in Computer Science and Engineering**, University of Gothenburg (2026) — thesis on *Assessment & Failure Recovery in Remote Vision-Language-Action Deployment*.
 
 ---
@@ -33,9 +34,13 @@
 
 ### 🔬 Focus Areas
 
-- 🚗 **Industrial Autonomous Driving** — Autonomous Mobile Robots (AMR) & autonomous trucks / Intelligent Guided Vehicles (IGV) for ports and logistics; perception, planning & control for real-world deployment
-- 🗺️ **SLAM** — localization and mapping
-- 🦾 **VLA (Vision-Language-Action)** — models for embodied intelligence
+* 🚗 **Autonomous Mobile Robotics** — AMRs and Intelligent Guided Vehicles (IGVs) for ports and logistics; perception, SLAM, planning, and control for real-world deployment
+
+* 🧠 **VLMs / LLMs** — high-level task reasoning, intention inference, and explanation for human-aware robots
+
+* 🪨 **VLA Models** — action generation, manipulation skills, and failure-aware execution in robotic tasks
+
+* 🔁 **Reinforcement Learning** — experience-based adaptation, policy learning, and failure recovery for robust robot behaviour
 
 ### 🌱 Beyond Code
 
