@@ -45,7 +45,7 @@
   Multimodal foundation models-based task-level reasoning and human intention understanding for human-aware robot systems.
 
 * 🪨 **Vision-Language-Action (VLA) Models**
-  Remote VLA deployment, action generation, runtime monitoring, and failure-aware execution in robotic manipulation, navigation and locomotion tasks.
+  Remote VLA deployment, action generation in robotic manipulation, navigation and locomotion tasks.
 
 * 🔁 **Failure Detection, Recovery**  
   Runtime failure monitoring, reinforcement learning for adaptive execution, experience-based adaptation, and failure recovery strategies for robust robot behaviour.
