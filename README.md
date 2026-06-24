@@ -12,10 +12,10 @@
 
 ### 👨‍💻 About Me
 
-- 🚗 Robotics Algorithm Engineer · **Industrial Autonomous Driving** (AMR · IGV) · **5+ years** of experience in perception, SLAM, planning and control.
-- 🧠 Interested in **hierarchical robot intelligence**: **VLMs/LLMs** for high-level task reasoning and intention understanding, **VLA models** for action generation and manipulation skills, and **reinforcement learning** for adaptive execution and failure recovery in **human–robot collaboration**.
-
-- 🎓 **M.Sc. in Computer Science and Engineering**, University of Gothenburg (2026) — thesis on *Assessment & Failure Recovery in Remote Vision-Language-Action Deployment*.
+* 🚗 Robotics Algorithm Engineer with **5+ years of industry experience** developing and deploying **autonomous mobile robot systems** in ports, factories, and logistics scenarios.
+* 🤖 My hands-on work covers **perception, SLAM, path planning, control, multi-sensor fusion**, and **ROS-based robot system implementation** in C++ and Python, from prototype validation to on-site deployment.
+* 🎓 I recently completed my **M.Sc. in Computer Science and Engineering** at the **University of Gothenburg** (2026), with a thesis on *Assessment & Failure Recovery in Remote Vision-Language-Action (VLA) Deployment*.
+* 🧠 I am interested in **interpretable and hierarchical robot learning**, **human-aware robot behaviour**, and **failure-aware adaptation and recovery** for reliable embodied robot systems.
 
 ---
 
@@ -32,15 +32,23 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
+
 ### 🔬 Focus Areas
 
-* 🚗 **Autonomous Mobile Robotics** — AMRs and Intelligent Guided Vehicles (IGVs) for ports and logistics; perception, SLAM, planning, and control for real-world deployment
+* 🚗 **Autonomous Mobile Robotics**
+  AMRs, Intelligent Guided Vehicles (IGVs), and autonomous forklifts for real-world logistics and automation tasks; perception, SLAM, planning, control, and multi-sensor fusion for deployed robot systems.
 
-* 🧠 **VLMs / LLMs** — high-level task reasoning, intention inference, and explanation for human-aware robots
+* 🧠 **Embodied AI & Robot Learning**
+  Structured and interpretable robot intelligence, task-level reasoning, learning-based adaptation, and reliable behaviour in physical robot environments.
 
-* 🪨 **VLA Models** — action generation, manipulation skills, and failure-aware execution in robotic tasks
+* 👁️ **MLLM/VLMs for Robotics**
+  Multimodal foundation models-based task-level reasoning and human intention understanding for human-aware robot systems.
 
-* 🔁 **Reinforcement Learning** — experience-based adaptation, policy learning, and failure recovery for robust robot behaviour
+* 🪨 **Vision-Language-Action (VLA) Models**
+  Remote VLA deployment, action generation, runtime monitoring, and failure-aware execution in robotic manipulation, navigation and locomotion tasks.
+
+* 🔁 **Failure Detection, Recovery**  
+  Runtime failure monitoring, reinforcement learning for adaptive execution, experience-based adaptation, and failure recovery strategies for robust robot behaviour.
 
 ### 🌱 Beyond Code
 
