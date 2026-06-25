@@ -1,3 +1,4 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HyuanTan.hyuantan)
 <h1 align="center">Hi there 👋 I'm Huoyuan</h1>
 
 <p align="center">
