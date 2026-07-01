@@ -42,7 +42,7 @@
   Structured and interpretable robot intelligence, learning-based adaptation, and reliable behaviour in physical robot environments.
 
 * 👁️ **MLLM/VLMs for Robotics**
-  Multimodal foundation models-based task-level reasoning and human intention understanding for human-aware robot systems.
+  Multimodal foundation models-based task-level reasoning, scene understanding and human intention understanding for human-aware robot systems.
 
 * 🪨 **Vision-Language-Action (VLA) Models**
   Remote VLA deployment, action generation in robotic manipulation, navigation and locomotion tasks.
