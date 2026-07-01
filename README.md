@@ -33,13 +33,13 @@
 </p>
 
 
-### 🔬 Focus Areas
+### 🔬 Research Interests
 
 * 🚗 **Autonomous Mobile Robotics**
   AMRs, Intelligent Guided Vehicles (IGVs), and autonomous forklifts for real-world logistics and automation tasks; perception, SLAM, planning, control, and multi-sensor fusion for deployed robot systems.
 
 * 🧠 **Embodied AI & Robot Learning**
-  Structured and interpretable robot intelligence, task-level reasoning, learning-based adaptation, and reliable behaviour in physical robot environments.
+  Structured and interpretable robot intelligence, learning-based adaptation, and reliable behaviour in physical robot environments.
 
 * 👁️ **MLLM/VLMs for Robotics**
   Multimodal foundation models-based task-level reasoning and human intention understanding for human-aware robot systems.
