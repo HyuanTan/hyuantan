@@ -70,7 +70,7 @@
         </a>
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td align="center">
         <a href="https://github.com/HyuanTan/DIT669-gulliview_noetic">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=HyuanTan&repo=DIT669-gulliview_noetic&theme=tokyonight&hide_border=true" alt="DIT669-gulliview_noetic" />
@@ -81,7 +81,7 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=HyuanTan&repo=finetune_gpt2_for_instruction_follow&theme=tokyonight&hide_border=true" alt="finetune_gpt2_for_instruction_follow" />
         </a>
       </td>
-    </tr>
+    </tr> -->
   </table>
 </div>
 
